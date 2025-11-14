@@ -14,3 +14,5 @@ ii. Dependencies used
 iii. Device/emulator used for testing 
 iv. Short explanation of architecture choices 
 v. Known issues or limitations
+## Screenshots
+https://we.tl/t-endbMhG8mR
